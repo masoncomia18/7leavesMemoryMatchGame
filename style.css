@@ -110,7 +110,7 @@ body {
 
 .backOfCard {
   background-image: url(../7leavesMemoryMatchGame/images/7Leaves-logo.png);
-  opacity: 0.5;
+  /* opacity: 0.5; */
 }
 
 /*CARDS------------------------------------------ */
